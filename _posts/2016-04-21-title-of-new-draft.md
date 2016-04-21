@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Paragraph one nulla pecus abico feugiat facilisi facilisi. Exerci nulla pecus voco. Duis iusto iriure os camur. Hendrerit brevitas damnum gilvus feugait vel. Vel gemino vulpes persto feugiat duis diam accumsan transverbero.
-datePublished: '2016-04-21T20:13:30.963Z'
-dateModified: '2016-04-21T20:13:17.914Z'
+datePublished: '2016-04-21T20:48:53.653Z'
+dateModified: '2016-04-21T20:15:18.530Z'
 title: Title of new Draft
 author: []
+sourcePath: _posts/2016-04-21-title-of-new-draft.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-title-of-new-draft.md
-published: true
 url: title-of-new-draft/index.html
 _type: Article
 
